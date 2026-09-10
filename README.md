@@ -4,6 +4,8 @@
 - Fully written in java
 - requires java 17+
 
+- Discord Server https://discord.gg/AEePfpxSnq
+
 Login screen
 ![Launcher News](/Screenshot_20260910_022203.png)
 Launcher News
